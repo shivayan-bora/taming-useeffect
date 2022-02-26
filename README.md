@@ -1,3 +1,6 @@
+# Introduction:
+This is an in-depth guide to mastering `useEffect` hook in our React Application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
